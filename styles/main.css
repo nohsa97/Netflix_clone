@@ -4,7 +4,7 @@
 
  .main_box {
    position: absolute;
-   top : 58vh;
+   top : 60vh;
    box-shadow: 0 -5px 38px 80px rgba(0, 0, 0, 0.8);
    background-color: rgba(0, 0, 0, 0.8);
    z-index: 100;
